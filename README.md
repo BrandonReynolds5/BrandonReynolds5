@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development**
 
-- 🤝 I’m looking for help with **web development**
+- 🤝 I’m looking for help with **Web Development** and **Hardware Design**
 
 - 💬 Ask me about **different languages**
 
