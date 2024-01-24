@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web Development** and **Hardware Design**
 
-- 💬 Ask me about **different languages**
+- 💬 Ask me about **what my favorite programming language is**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
