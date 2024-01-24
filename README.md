@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brandon Reynolds</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
 
-- 🔭 I’m currently working on **a full web page for a business**
+- 🔭 I’m currently working on **design for a tracker system**
 
-- 🌱 I’m currently learning **Full Stack Development and VLSI Design**
+- 🌱 I’m currently learning **Full Stack Development and VLSI Design.**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on **Software Development projects.**
 
-- 🤝 I’m looking for help with **Web Development** and **Hardware Design**
+- 🤝 I’m looking for help with **Web Development** and **Hardware Design.**
 
 - 💬 Ask me about **what my favorite programming language is**
 
