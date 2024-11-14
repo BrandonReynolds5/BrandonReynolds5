@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development projects.**
 
-- 🤝 I’m looking for help with **Web Development** and **Hardware Design.**
+- 🤝 I’m looking for help with **Embedded Software** and **Hardware Design.**
 
 - 💬 Ask me about **what my favorite programming language is**
 
